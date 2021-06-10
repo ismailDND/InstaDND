@@ -4,8 +4,10 @@ InstagramAPI C# Sample APP
 *Block user
 *Login
 *Fetch user (list)
+*auto follow
 
 
+![image](https://user-images.githubusercontent.com/49169815/121465181-fddc3080-c9bd-11eb-9d17-79024b9c7d4d.png)
 
 ![Screenshot_10](https://user-images.githubusercontent.com/49169815/121445514-497ce300-c99a-11eb-8acf-afdb5f62f61c.png)
 ![image](https://user-images.githubusercontent.com/49169815/121445562-60bbd080-c99a-11eb-85b1-2f36017bd5a3.png)
