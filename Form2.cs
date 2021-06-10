@@ -78,5 +78,12 @@ namespace instadnd
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            var frm4 = new Form4();
+            frm4.getApi = getApi;
+            frm4.Show();
+        }
     }
 }
