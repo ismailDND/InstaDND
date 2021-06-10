@@ -1,4 +1,7 @@
+Ticari amaçlı kullanılması yasaktır, eğitim amaçlıdır - İsmail Döndü
+
 # InstaDND
+
 InstagramAPI C# Sample APP 
 
 *Block user
