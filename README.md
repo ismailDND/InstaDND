@@ -1,4 +1,4 @@
-Ticari amaçlı kullanılması yasaktır, eğitim amaçlıdır - İsmail Döndü
+Ticari amaçlı kullanılması yasaktır - İsmail Döndü
 
 # InstaDND
 
