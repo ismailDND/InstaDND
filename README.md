@@ -1,4 +1,4 @@
-Ticari amaçlı kullanılması yasaktır - İsmail Döndü
+
 
 # InstaDND
 
